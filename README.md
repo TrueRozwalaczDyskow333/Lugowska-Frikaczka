@@ -1,2 +1,2 @@
 # Ługowska-Frikaczka
-Gra o rozwalaniu dysków
+Gra o zbieraniu dysków
