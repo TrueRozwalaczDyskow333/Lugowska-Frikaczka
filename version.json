@@ -1,0 +1,6 @@
+{
+  "version": "10.5.4",
+  "apk": "https://github.com/TrueRozwalaczDyskow333/Lugowska-Frikaczka/releases/download/v10.5.4/Lugowska_Frikaczka_10_5_4.apk",
+  "size": 181153,
+  "notes": "- Dodano niezawodne sprawdzanie wersji przez plik version.json (Ważne)\n- Dodano listę zmian w oknie aktualizacji\n- Dodano automatyczne ponawianie sprawdzania, gdy GitHub nie odpowiada\n- Poprawiono pobieranie aplikacji przy chwilowych błędach sieci"
+}
